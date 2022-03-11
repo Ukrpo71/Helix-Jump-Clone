@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b8503a429f102694a99e9a0750c0febc, type: 3}
+  m_Name: 0
+  m_EditorClassIdentifier: 
+  BackgroundColor: {r: 0.8196079, g: 0.69803923, b: 0.6156863, a: 1}
+  BallColor: {r: 0.8980393, g: 0.73333335, b: 0.19215688, a: 1}
+  PartsColor: {r: 0.18431373, g: 0.18039216, b: 0.18431373, a: 1}
+  Levels:
+  - normalParts: 11
+    deathParts: 1
+  - normalParts: 9
+    deathParts: 1
+  - normalParts: 10
+    deathParts: 1
+  - normalParts: 8
+    deathParts: 1
+  - normalParts: 6
+    deathParts: 0
+  - normalParts: 9
+    deathParts: 1
+  - normalParts: 6
+    deathParts: 1
+  - normalParts: 6
+    deathParts: 0
+  - normalParts: 9
+    deathParts: 1
+  - normalParts: 8
+    deathParts: 1
